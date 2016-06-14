@@ -179,7 +179,7 @@ Then, to within the app contents folder where `Info.plist` is placed, copy your 
 
 **EITHER** refer below if setting up from ground start:
 
-In case you have not set up an entitlements file which enables features from Apple like app sandbox and push notifications, please manually create a new file with extension `.entitlememts`.
+In case you have not set up an entitlements file which enables features from Apple like app sandbox and push notifications, please manually create a new file with extension `.entitlements`.
 
 > NB: Though the entitlements file itself being a property list file, it is recommended to use this extension for that Xcode has slightly better support over this file type.
 
