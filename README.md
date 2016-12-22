@@ -2,6 +2,8 @@
 
 Guide to distribute Electron apps made simple
 
+Moved to [`electron-osx-sign-guide`](https://github.com/sethlu/electron-osx-sign-guide)
+
 ## About
 
 It is worth noting that most of the steps here taken have made unnecessary with packaging tools and signing tools. The documents here attached are targeted as specifications of stepwise procedures that eventually lead to distribution of products in a **conceptual** flow. Also, the way of categorizing target platforms here is slightly different from the current Electron documents; this is so that we may structure the steps slightly more logically. The packaging of Electron app is out of the scope of this document.
